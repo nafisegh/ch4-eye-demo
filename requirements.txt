@@ -1,3 +1,18 @@
-sentinelsat>=1.1.1
-Boto3
-S5cmd # for fast file downloads from AWS
+boto3==1.39.4
+botocore==1.39.4
+certifi==2025.7.14
+charset-normalizer==3.4.2
+click==8.2.1
+geojson==3.2.0
+geomet==1.1.0
+html2text==2025.4.15
+idna==3.10
+jmespath==1.0.1
+python-dateutil==2.9.0.post0
+requests==2.32.4
+s3transfer==0.13.0
+s5cmd==0.2.0
+sentinelsat==1.2.1
+six==1.17.0
+tqdm==4.67.1
+urllib3==2.5.0
