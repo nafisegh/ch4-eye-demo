@@ -24,3 +24,4 @@ cd ch4-eye-demo
 
 pip install -r requirements.txt
 
+Download s5cmd here: https://github.com/peak/s5cmd/releases
